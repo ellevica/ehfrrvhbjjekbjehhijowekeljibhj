@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+  printf("Elleanor");
+  printf("My favourite programming language is Python.");
+  return 0;
+}
